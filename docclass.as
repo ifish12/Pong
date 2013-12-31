@@ -129,7 +129,7 @@
 					stage.addChild(tempBall);
 					break;
 			}
-		//poop
+
 		}
 		private function processUP(e:KeyboardEvent):void {
 			var k = e.keyCode;
